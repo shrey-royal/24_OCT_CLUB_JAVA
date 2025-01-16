@@ -47,3 +47,13 @@ public class Abstract_Class {
         s.display();
     }
 }
+
+/*
+Tasks:
+
+Scenario 1: Animal Hierarchy
+Create an abstract class called "Animal" with abstract methods like "eat" and "sound." Implement derived classes like "Cat" and "Dog" that provide specific implementations for these abstract methods.
+
+Scenario 2: Vehicle Manufacturing
+Design an abstract class called "Vehicle" with abstract methods like "assemble" and "paint." Implement derived classes like "Car" and "Motorcycle" that provide specific implementations for these abstract methods.
+*/
