@@ -1,7 +1,7 @@
 public class Stringsss {
     public static void main(String[] args) {
-        String str = "String 1";    //1859651587
-        String str1 = "String 2";   //1859651586
+        String str = "String 1";
+        String str1 = "String 2";
         
         str1 = "String 1";
 
